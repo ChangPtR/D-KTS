@@ -1,5 +1,5 @@
 # D-KTS
-Code for paper [TOWARDS PRACTICAL AND EFFICIENT LONG VIDEO SUMMARY](https://ieeexplore.ieee.org/abstract/document/9746911)
+Code for paper [TOWARDS PRACTICAL AND EFFICIENT LONG VIDEO SUMMARY](https://ieeexplore.ieee.org/abstract/document/9746911). Supervised and unsupervised video summarization systems based on our Distribution-based KTS.
 
 #### Architecture
 
