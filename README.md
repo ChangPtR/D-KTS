@@ -18,7 +18,7 @@ The main requirements are Python 3.6, Anaconda 4.8, PyTorch 1.4.0, cudatoolkit 1
 First, clone this project to your local environment.
 
 ```
-git clone https://gitee.com/rainemo/vs-pipline.git
+git clone https://github.com/ChangPtR/D-KTS.git
 ```
 
 Next, download [SumMe](https://gyglim.github.io/me/vsum/index.html#benchmark) and [TVSum](https://github.com/yalesong/tvsum) datasets into a folder.
